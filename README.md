@@ -1,2 +1,2 @@
-# Devops_ex1
-devops
+stone paper scissor game using python
+
